@@ -1,0 +1,8 @@
+{
+  "name": "php-js-lint-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/mqschwanda/php-js-lint-example.git",
+  "author": "Mark Q Schwanda <mqschwanda@gmail.com>",
+  "license": "MIT"
+}
